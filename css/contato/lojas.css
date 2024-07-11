@@ -23,11 +23,6 @@
 .lojas-conteudo {
   display: grid;
   grid-template-columns: 1fr 1fr;
-}
-
-.lojas-conteudo {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 32px 16px;
   padding: 32px;
 }
@@ -53,7 +48,7 @@
     gap: 20px;
   }
   .lojas h2 {
-    gap: 32px;
+    margin-bottom: 32px;
   }
   .lojas-conteudo {
     grid-template-columns: 1fr;
